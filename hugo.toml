@@ -1,0 +1,8 @@
+baseURL = 'https://www.tc-lautlingen.de'
+languageCode = 'en-us'
+title = 'TC Lautlingen'
+
+[build]
+  [build.postCSS]
+    includeFiles = "assets/css/*.css"
+    excludeFiles = "assets/css/ignore-*.css"
