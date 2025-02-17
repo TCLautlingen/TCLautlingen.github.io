@@ -1,3 +1,15 @@
-﻿<footer>
-	Footer
+﻿<footer class="bg-primary-dark">
+	<div class="max-w-md px-4 py-8 mx-auto overflow-hidden sm:max-w-3xl sm:px-6 lg:max-w-7xl lg:px-8">
+		<nav class="flex flex-wrap justify-center -mx-5 -my-2" aria-label="Footer">
+			<div class="px-5 py-2">
+				<a href="/impressum" class="text-base text-white">Impressum</a>
+			</div>
+			<div class="px-5 py-2">
+				<a href="/datenschutz" class="text-base text-white">Datenschutz</a>
+			</div>
+		</nav>
+		<p class="mt-8 text-base text-center text-white">&copy; {{ now.Format "2006" }}
+			{{ .Site.Title }}
+		</p>
+	</div>
 </footer>
