@@ -7,4 +7,4 @@ categories = 'News'
 tags = 'News'
 +++
 
-[Einladung Jahreshauptversammlung](/pdf/EinladungHauptversammlung)
+[Einladung Jahreshauptversammlung](/pdf/hauptversammlung)
