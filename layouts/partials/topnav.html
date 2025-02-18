@@ -2,7 +2,7 @@
 	<div x-data="{ open: false }" class="flex flex-col max-w-screen-xl px-4 mx-auto md:items-center md:justify-between md:flex-row md:px-6 lg:px-8">
 		<div class="p-4 flex flex-row items-center justify-between">
 			<a href="/">
-				<img src="/images/logo.png" class="h-10 w-auto" alt="Logo"/>
+				<img src="/images/LogoTCL.png" class="h-10 w-auto" alt="Logo"/>
 			</a>
 			<button class="md:hidden rounded-lg focus:outline-none focus:shadow-outline" @click="open = !open">
 				<svg fill="currentColor" viewBox="0 0 20 20" class="w-6 h-6">
@@ -25,7 +25,7 @@
 				<div x-show="open" x-transition:enter="transition ease-out duration-100" x-transition:enter-start="transform opacity-0 scale-95" x-transition:enter-end="transform opacity-100 scale-100" x-transition:leave="transition ease-in duration-75" x-transition:leave-start="transform opacity-100 scale-100" x-transition:leave-end="transform opacity-0 scale-95" class="absolute right-0 w-full mt-2 origin-top-right rounded-md shadow-lg md:w-48">
 					<div class="px-2 py-2 bg-white rounded-md shadow text-primary-dark">
 						<a class="block px-4 py-2 text-sm font-semibold bg-transparent rounded-lg hover:text-white focus:text-white hover:bg-primary focus:bg-primary focus:outline-none focus:shadow-outline" href="https://tc-lautlingen.web.app/">zur Reservierung</a>
-						<a class="block px-4 py-2 text-sm font-semibold bg-transparent rounded-lg hover:text-white focus:text-white hover:bg-primary focus:bg-primary focus:outline-none focus:shadow-outline" href="/pdf/Anleitung.html">Anleitung</a>
+						<a class="block px-4 py-2 text-sm font-semibold bg-transparent rounded-lg hover:text-white focus:text-white hover:bg-primary focus:bg-primary focus:outline-none focus:shadow-outline" href="/pdf/anleitung">Anleitung</a>
 					</div>
 				</div>
 			</div>
