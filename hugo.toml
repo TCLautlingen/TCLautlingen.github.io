@@ -42,4 +42,6 @@ title = 'TC Lautlingen'
 	xhtml = false
 
 [params]
- 	acrobatClientId = "f1045da4186a4c3982f9348835c9b4ea"
+ 	acrobatClientId = "1685736b61ac4fa8aa6940374913f486"
+ 	mainPage = "1685736b61ac4fa8aa6940374913f486"
+ 	githubPage = "f1045da4186a4c3982f9348835c9b4ea"
