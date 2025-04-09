@@ -37,7 +37,6 @@ title = 'TC Lautlingen'
 	wrapStandAloneImageWithinParagraph = true
 
 [markup.goldmark.renderer]
-	hardWraps = true
 	unsafe = true
 	xhtml = false
 
