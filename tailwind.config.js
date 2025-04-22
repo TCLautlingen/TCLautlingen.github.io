@@ -7,31 +7,12 @@ module.exports = {
           light: '#22c55e',
           DEFAULT: '#16a34a',
           dark: '#14532d'
-        },
-        primary_text: {
-          light: '#081d2b',
-          DEFAULT: '#02070a',
-          dark: '#010304'
-        },
+        }
       },
       typography: (theme) => ({
         DEFAULT: {
           css: {
-            maxWidth: '100ch',
-            color: theme('colors.primary_text.DEFAULT'),
-            h1: {
-              color: theme('colors.primary_text.DEFAULT'),
-            },
-            h2: {
-              color: theme('colors.primary_text.DEFAULT'),
-            },
-            h3: {
-              color: theme('colors.primary_text.DEFAULT'),
-            },
-            h4: {
-              color: theme('colors.primary_text.DEFAULT'),
-            }
-
+            maxWidth: '100ch'
           }
         }
       })
