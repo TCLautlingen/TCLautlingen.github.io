@@ -24,6 +24,6 @@ Egal ob Tennisspieler, Freunde oder Gäste – alle sind herzlich willkommen, si
 
 ## Kontakt
 
-Für Reservierungen oder weitere Informationen könnt Ihr gerne eine Anfrage an **reservierung@tc-lautlingen.de** senden, die direkt an uns weitergeleitet wird.
+Für Reservierungen oder weitere Informationen könnt Ihr gerne eine Anfrage an **reservierung@tc-lautlingen.de** senden.
 
 Ob zur Einkehr oder auf ein spritziges Getränk – wir freuen uns auf Euren Besuch!
