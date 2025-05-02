@@ -7,7 +7,10 @@ module.exports = {
           light: '#22c55e',
           DEFAULT: '#16a34a',
           dark: '#14532d'
-        }
+        },
+        prose: {
+          body: '#374151'
+        },
       },
       typography: (theme) => ({
         DEFAULT: {
