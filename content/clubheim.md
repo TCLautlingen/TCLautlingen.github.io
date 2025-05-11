@@ -4,15 +4,9 @@ title = 'Clubheim Lautlingen'
 
 Ab dem 01. Mai ist das Clubheim des Tennis-Clubs Lautlingen wieder bewirtet!
 
-Auf der wunderschönen Anlage des TCL erwartet Euch **Michael Bubeck** mit leckerer, gut bürgerlicher Küche. Genießt eine Auswahl an herzhaften, frisch zubereiteten Gerichten wie:
+Auf der wunderschönen Anlage des TCL erwartet Euch **Michael Bubeck** mit leckerer, gut bürgerlicher Küche. Genießt eine Auswahl an herzhaften, frisch zubereiteten Gerichten.
 
-- Schnitzel
-- Selbstgemachte Maultaschen
-- Käsespätzle
-- Wurstsalat
-- Salate
-
-Ein Geheimtipp ist die **Currywurst** mit Currysauce nach Michaels Spezialrezeptur. Freut Euch auf wechselnde Angebote.
+<embed src="/pdf/Speisekarte Clubheim.pdf" type="application/pdf" width="100%" height="600px" />
 
 Egal ob Tennisspieler, Freunde oder Gäste – alle sind herzlich willkommen, sich bei uns zu stärken und die idyllische Lage zu genießen. Bei gutem Wetter könnt Ihr unsere **Sonnenterrasse** nutzen. Auch für Wanderer des nahe gelegenen **Traufgangs** stellt das Clubheim eine ideale Einkehrmöglichkeit zur Stärkung dar.
 
