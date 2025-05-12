@@ -6,9 +6,6 @@ Ab dem 01. Mai ist das Clubheim des Tennis-Clubs Lautlingen wieder bewirtet!
 
 Auf der wunderschönen Anlage des TCL erwartet Euch **Michael Bubeck** mit leckerer, gut bürgerlicher Küche. Genießt eine Auswahl an herzhaften, frisch zubereiteten Gerichten.
 
-![Speisekarte](/images/clubheim/Speisekarte.svg)
-![Getränkekarte](/images/clubheim/Getränkekarte.svg)
-
 Egal ob Tennisspieler, Freunde oder Gäste – alle sind herzlich willkommen, sich bei uns zu stärken und die idyllische Lage zu genießen. Bei gutem Wetter könnt Ihr unsere **Sonnenterrasse** nutzen. Auch für Wanderer des nahe gelegenen **Traufgangs** stellt das Clubheim eine ideale Einkehrmöglichkeit zur Stärkung dar.
 
 ## Öffnungszeiten
@@ -16,6 +13,11 @@ Egal ob Tennisspieler, Freunde oder Gäste – alle sind herzlich willkommen, si
 - **Dienstag bis Freitag:** 16:30 Uhr – 22:30 Uhr
 - **Samstag bis Sonntag:** 14:00 Uhr – 21:00 Uhr
 - **Montag:** Ruhetag
+
+## Speisen und Getränke
+
+![Speisekarte](/images/clubheim/Speisekarte.svg)
+![Getränkekarte](/images/clubheim/Getränkekarte.svg)
 
 ## Kontakt
 
