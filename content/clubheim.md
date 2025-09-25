@@ -10,17 +10,14 @@ Egal ob Tennisspieler, Freunde oder Gäste – alle sind herzlich willkommen, si
 
 ## Öffnungszeiten
 
-- **Dienstag bis Freitag:** 16:30 Uhr – 22:30 Uhr
-- **Samstag bis Sonntag:** 14:00 Uhr – 21:00 Uhr
-- **Montag:** Ruhetag
+![Öffnungszeiten](/images/clubheim/Öffnungszeiten.png)
 
 ## Speisen und Getränke
 
-![Speisekarte](/images/clubheim/Speisekarte.svg)
-![Getränkekarte](/images/clubheim/Getränkekarte.svg)
+![Speisekarte](/images/clubheim/Speisekarte.png)
+![Getränkekarte](/images/clubheim/Getränkekarte.png)
+![Schnitzelposter](/images/clubheim/Schnitzelposter.png)
 
-## Kontakt
+## Reservierungen
 
-Für Reservierungen oder weitere Informationen könnt Ihr gerne eine Anfrage an **reservierung@tc-lautlingen.de** senden.
-
-Ob zur Einkehr oder auf ein spritziges Getränk – wir freuen uns auf Euren Besuch!
+Bitte reserviert rechtzeitig unter **07431/73666** oder per Mail an **reservierung@tc-lautlingen.de**.
