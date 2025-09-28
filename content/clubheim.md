@@ -2,7 +2,7 @@
 title = 'Clubheim Lautlingen'
 +++
 
-Ab dem 01. Mai ist das Clubheim des Tennis-Clubs Lautlingen wieder bewirtet!
+Das Clubheim hat auch über die Wintersaison geöffnet.
 
 Auf der wunderschönen Anlage des TCL erwartet Euch **Michael Bubeck** mit leckerer, gut bürgerlicher Küche. Genießt eine Auswahl an herzhaften, frisch zubereiteten Gerichten.
 
