@@ -2,9 +2,9 @@
 title = 'Clubmeisterschaften'
 date = 2025-09-27T08:03:14+01:00
 draft = false
-featured_image = '../assets/images/news/Clubmeisterschaften.jpg'
+featured_image = 'images/Clubmeisterschaften.jpg'
 categories = 'News'
-tags = 'News'
+tags = 'News 2025'
 +++
 
 Bei wunderschönem, hochsommerlichem Wetter führte der Tennis-Club Lautlingen e.V.

@@ -2,9 +2,9 @@
 title = 'Rückbick auf ein erfolgreiches Jubiläumsjahr'
 date = 2025-03-29T09:03:14+01:00
 draft = false
-featured_image = '../assets/images/news/RückblickJubiäumsjahr.jpg'
+featured_image = 'images/RückblickJubiäumsjahr.jpg'
 categories = 'News'
-tags = 'News'
+tags = 'News 2025'
 +++
 
 Bei seiner 50. Jahreshauptversammlung blickte der Tennis-Club Lautlingen e.V. (TCL) auf ein besonderes, vergangenes Jahr zurück. Herzlich begrüßt wurden die Mitglieder und zahlreichen Gäste, darunter Ortsvorsteher Eckhard Hofele und Vertreterinnen und Vertreter Lautlinger Vereine, durch die beiden Vorsitzenden Reinhold Maier und Fabian Sauter. Michael Bubeck, welcher ab Ende April die Bewirtung des Clubheims übernehmen wird, wurde vorgestellt. Im Jubiläumsjahr lief sowohl sportlich als auch finanziell alles nach Plan, Kassenführerin Silvia Pawelka konnte eine solide Finanzlage präsentieren. Neuwahlen bringen Kontinuität. Das vergangene Jahr stand im Zeichen der Feierlichkeiten zum 50-jährigen Bestehen des TCL. Nach einer festlichen „Tennis &amp; Weißwurst Fiesta für Alle“ im Mai, dem traditionellen Flutlicht-Turnier im Juli und dem „TCL-Kids-Day“ mit einer Hüpfburg und Papageien-Show,fand das Jubiläumsfest Mitte September in der Schlossscheuer in Lautlingen statt. Die Feier,welche von 140 Gästen besucht wurde, wurde als unvergessliches Erlebnis beschrieben. An diesem festlichen Abend gab es die Gelegenheit, neben Musik, Tanz und kulinarischenKöstlichkeiten, insbesondere mit Gründungsmitgliedern, ehemaligen Vorständen und prägenden Persönlichkeiten auf die Geschichte des TCL und das Gründungsjahr zurückzublicken und die ein oder andere Anekdote zu hören. 50 Jahre später blicke der TCL auf eine beeindruckende Vereinsgeschichte zurück und sei mit einer Mitgliederzahl von 340, ein Viertel davon Kinder und Jugendliche, ein fester Bestandteil der Lautlinger Gemeinschaft. Im Aktivenbereich nahmen in der vergangenen Sommersaison sechs Mannschaften am Spielbetrieb teil. Darunter die Herren 1, Herren 2, Damen 1, Damen 40, Damen 40 2 und Herren 50, Alle Mannschaften erzielten zufriedenstellende Ergebnisse. An der Winterrunde nehmen drei Mannschaften teil.

@@ -2,9 +2,9 @@
 title = 'Traditionelles Flutlicht-Turnier um den Werner Storz Pokal'
 date = 2025-07-28T08:03:14+01:00
 draft = false
-featured_image = '../assets/images/news/Flutlichtturnier.jpg'
+featured_image = 'images/Flutlichtturnier.jpg'
 categories = 'News'
-tags = 'News'
+tags = 'News 2025'
 +++
 
 Tennis-Matches bis tief in die Nacht fanden kürzlich beim Tennis-Club Lautlingen

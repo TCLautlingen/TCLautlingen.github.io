@@ -2,9 +2,9 @@
 title = 'Clubheim ab Mai wieder geöffnet!'
 date = 2025-04-09T15:03:14+01:00
 draft = false
-featured_image = '../assets/images/news/Clubheim.jpg'
+featured_image = 'images/Clubheim.jpg'
 categories = 'News'
-tags = 'News'
+tags = 'News 2025'
 +++
 
 Tennis-Club Lautlingen e.V.  

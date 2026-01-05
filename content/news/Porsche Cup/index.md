@@ -2,9 +2,9 @@
 title = 'Porsche Cup 2025'
 date = 2025-04-29T08:03:14+01:00
 draft = false
-featured_image = '../assets/images/news/PorscheCup.jpeg'
+featured_image = 'images/PorscheCup.jpeg'
 categories = 'News'
-tags = 'News'
+tags = 'News 2025'
 +++
 
 ### Großartige Stimmung bei der TCL-Ausfahrt zum Porsche Tennis Grand Prix 2025

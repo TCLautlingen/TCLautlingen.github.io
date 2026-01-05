@@ -7,6 +7,10 @@ title = 'TC Lautlingen'
 		includeFiles = "assets/css/*.css"
 		excludeFiles = "assets/css/ignore-*.css"
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [markup.goldmark.extensions]
 	definitionList = true
 	footnote = true

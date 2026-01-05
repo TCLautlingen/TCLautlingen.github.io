@@ -2,9 +2,9 @@
 title = 'TCL Bändleturnier'
 date = 2025-05-02T08:03:14+01:00
 draft = false
-featured_image = '../assets/images/news/Bändeleturnier.jpg'
+featured_image = 'images/Bändeleturnier.jpg'
 categories = 'News'
-tags = 'News'
+tags = 'News 2025'
 +++
 
 Am ersten Mai wurde beim Tennis-Club Lautlingen e.V. (TCL) das

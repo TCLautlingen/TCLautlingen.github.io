@@ -2,9 +2,9 @@
 title = 'Herbstwanderung TCL'
 date = 2025-10-20T09:08:24+01:00
 draft = false
-featured_image = '../assets/images/news/Herbstwanderung.jpg'
+featured_image = 'images/Herbstwanderung.jpg'
 categories = 'News'
-tags = 'News'
+tags = 'News 2025'
 +++
 
 Kürzlich war es wieder soweit. Zum Saisonabschluss machten sich bei bestem,
