@@ -20,4 +20,4 @@ Egal ob Tennisspieler, Freunde oder Gäste – alle sind herzlich willkommen, si
 
 ## Reservierungen
 
-Bitte reserviert rechtzeitig unter **07431/73666** oder per Mail an **reservierung@tc-lautlingen.de**.
+Bitte reserviert rechtzeitig unter **07431/73666** oder per Mail an **michaelbubeck35@gmail.com**.
