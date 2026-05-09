@@ -23,3 +23,5 @@ Albstadt Ebingen
 
 **Umsatzsteuer - Indentifikationsnummer gem, § 27a Umsatzsteuergesetz:**  
 VR 265
+
+Der Tennis-Club Lautlingen e.V. nutzt die Domain tc-lautlingen.de für das Google for Nonprofits Programm.
