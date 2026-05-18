@@ -10,12 +10,20 @@ Egal ob Tennisspieler, Freunde oder Gäste – alle sind herzlich willkommen, si
 
 ## Öffnungszeiten
 
-![Öffnungszeiten](/images/clubheim/Öffnungszeiten.png)
+Montag: Ruhetag  
+Dienstag: Ruhetag  
+Mittwoch: 16:30 - 22:00  
+Donnerstag: 16:30 - 22:00  
+Freitag: 16:30 - 22:30  
+Samstag: 16:30 - 21:00  
+Sonntag: 11:00 - 21:00
 
 ## Speisen und Getränke
 
-![Speisekarte](/images/clubheim/Speisekarte.png)
-![Getränkekarte](/images/clubheim/Getränkekarte.png)
+![Speisekarte](/images/clubheim/Speisekarte.jpg)
+![Getränkekarte](/images/clubheim/Getränkekarte.jpg)
+![Speisekarte2](/images/clubheim/Speisekarte2.jpg)
+![Speisekarte3](/images/clubheim/Speisekarte3.jpg)
 ![Schnitzelposter](/images/clubheim/Schnitzelposter.png)
 
 ## Reservierungen
